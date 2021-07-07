@@ -2,5 +2,5 @@
 
 int main (void) {
     hello();
-    std::cout<<"hello"<<std::endl;
+    //std::cout<<"hello"<<std::endl;
 }
