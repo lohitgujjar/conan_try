@@ -1,0 +1,36 @@
+[settings]
+    arch=x86_64
+    arch.march=None
+    build_type=Release
+    compiler=gcc
+    compiler.libcxx=libstdc++11
+    compiler.version=7
+    os=Linux
+
+[requires]
+    hello/5.Y.Z
+
+[options]
+
+
+[full_settings]
+    arch=x86_64
+    arch.march=None
+    build_type=Release
+    compiler=gcc
+    compiler.libcxx=libstdc++11
+    compiler.version=7
+    os=Linux
+
+[full_requires]
+    hello/5.1@l.banagerae.veeranna/test:66c5327ebdcecae0a01a863939964495fa019a06
+
+[full_options]
+    hello:fPIC=True
+    hello:shared=False
+
+[recipe_hash]
+
+
+[env]
+

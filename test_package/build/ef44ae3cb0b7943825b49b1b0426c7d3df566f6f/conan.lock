@@ -1,0 +1,25 @@
+{
+ "graph_lock": {
+  "nodes": {
+   "0": {
+    "options": "hello:fPIC=True\nhello:shared=False",
+    "requires": [
+     "1"
+    ],
+    "path": "../../conanfile.py",
+    "context": "host"
+   },
+   "1": {
+    "ref": "hello/5.1@l.banagerae.veeranna/test#d69a3eca09d18246670b020f7f3b6606",
+    "options": "fPIC=True\nshared=False",
+    "package_id": "66c5327ebdcecae0a01a863939964495fa019a06",
+    "prev": "e4df8daa332f3c0a277e493ea7a22fc3",
+    "modified": true,
+    "context": "host"
+   }
+  },
+  "revisions_enabled": true
+ },
+ "version": "0.4",
+ "profile_host": "[settings]\narch=x86_64\narch.march=None\narch_build=x86_64\nbuild_type=Release\ncompiler=gcc\ncompiler.libcxx=libstdc++11\ncompiler.version=7\nos=Linux\nos_build=Linux\n[options]\n[build_requires]\n[env]\n"
+}

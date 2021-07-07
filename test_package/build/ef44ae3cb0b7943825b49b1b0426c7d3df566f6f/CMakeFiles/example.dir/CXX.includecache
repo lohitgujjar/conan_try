@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/l.banagerae.veeranna/.conan/data/hello/5.1/l.banagerae.veeranna/test/package/66c5327ebdcecae0a01a863939964495fa019a06/include/hello.h
+
+/home/l.banagerae.veeranna/Music/lohit_github/test_package/example.cpp
+hello.h
+/home/l.banagerae.veeranna/Music/lohit_github/test_package/hello.h
+
