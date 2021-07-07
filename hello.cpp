@@ -9,5 +9,6 @@ void hello() {
     #else
     //hello there
     std::cout << "Hello World Debug!" <<std::endl;
+    std::cout <<"Hi there" <<std::endl;
     #endif
 }
