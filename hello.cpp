@@ -4,9 +4,5 @@
 
 
 void hello() {
-    #ifdef NDEBUG
-    // std::cout << "Hello World Release!" <<std::endl;
-    #else
-    //hello there
     std::cout << "Hello World Debug-conan testing!" <<std::endl;
 }
