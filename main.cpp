@@ -2,6 +2,6 @@
 #include "iostream"
 int main (void) {
     hello();
-    std::cout<<"hello";
+    std::cout<<"hello-world";
     //
 }
